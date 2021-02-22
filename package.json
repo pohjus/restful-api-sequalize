@@ -1,0 +1,29 @@
+{
+  "name": "restful-api-sequalize",
+  "version": "1.0.0",
+  "description": "Simple RESTFul API using Sequalize ORM for DB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pohjus/restful-api-sequalize.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pohjus/restful-api-sequalize/issues"
+  },
+  "homepage": "https://github.com/pohjus/restful-api-sequalize#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-validator": "^6.9.2",
+    "mariadb": "^2.5.3",
+    "sequelize": "^6.5.0",
+    "sqlite": "^4.0.19",
+    "sqlite3": "^5.0.2"
+  }
+}
